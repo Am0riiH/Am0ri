@@ -1,6 +1,6 @@
 <!-- 👋 Profile README for Omar Rh -->
 
-<h1 align="center">Hey there 👋, I'm <span style="color:#58A6FF;">Omar Rh</span></h1>
+<h1 align="center">Hey there 👋, I'm <span style="color:#58A6FF;">Omar Rashied</span></h1>
 
 <p align="center">
   💻 <strong>Full-Stack & Web3 Developer</strong><br>
@@ -32,7 +32,7 @@
   <a href="https://linkedin.com/in/am0rih" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:binhussien.edu@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/am0rih" target="_blank">
